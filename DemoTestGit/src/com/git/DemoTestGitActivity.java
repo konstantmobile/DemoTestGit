@@ -9,5 +9,7 @@ public class DemoTestGitActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
+        
+        //now check new commit 
     }
 }
